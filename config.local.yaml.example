@@ -1,0 +1,9 @@
+# Copy to config.local.yaml and fill in keys. config.local.yaml is gitignored.
+api:
+  elsevier_key: "YOUR_ELSEVIER_KEY_HERE"
+  nvd_api_key: "YOUR_NVD_KEY_HERE"
+  acled_email: "YOUR_EMAIL_HERE"
+  acled_password: "YOUR_ACLED_PASSWORD_HERE"
+  twitter_bearer: ""
+  openai_key: ""
+  use_live_apis: true
